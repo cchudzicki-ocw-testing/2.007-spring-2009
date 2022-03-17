@@ -16,7 +16,7 @@ video_metadata:
 
 All images courtesy of Alex Slocum.
 
-{{< resource d9d405a7-72d6-6fca-06e2-7cc98fb83c9e "The Two Tables...One Robot to Rule them All..." >}}
+{{< resource "d9d405a7-72d6-6fca-06e2-7cc98fb83c9e" >}}
 
 One Robot to Rule them All.....
 
@@ -24,7 +24,7 @@ One Robot to Rule them All.....
   
  
 
-{{< resource 0e1b8cf5-7f5a-e2aa-5802-c937b754863b "2003 table overview." >}}
+{{< resource "0e1b8cf5-7f5a-e2aa-5802-c937b754863b" >}}
 
 2003 table overview.
 
@@ -46,7 +46,7 @@ On the edge of gap between the tables is a small metal bar.
 
 Note: The stack of pucks will be placed halfway between the edge of the platter and the edge of the chasm.
 
-{{< resource b0ddc9f9-fd1b-7c15-c605-9f353a80fe6a "Labelled table view." >}}
+{{< resource "b0ddc9f9-fd1b-7c15-c605-9f353a80fe6a" >}}
 
 Labelled table view.
 
@@ -65,7 +65,7 @@ Score = (mass + 100 grams) x (cumulative rotation of platter + 1 radian)
 
 All mass is measured in grams. Platter motion is measured in radians.
 
-{{< resource 0940179b-fc67-727d-1410-86065d20bd68 "Rotating platter close-up view." >}}
+{{< resource "0940179b-fc67-727d-1410-86065d20bd68" >}}
 
 Rotating platter close-up view.
 
@@ -73,7 +73,7 @@ Rotating platter close-up view.
   
  
 
-{{< resource f7109fc7-a086-1379-e8d6-ca0c49447ad2 "Half table close-up view." >}}
+{{< resource "f7109fc7-a086-1379-e8d6-ca0c49447ad2" >}}
 
 Half table close-up view.
 
@@ -82,7 +82,7 @@ Critical Table Dimensions
 
 Note: These dimensions are approximate and may change. The final dimensions are as determined on the physical tables in the Pappalardo Lab. Solid models of the table are available here: both SolidWorks® and Pro/Engineer® ({{% resource_link bf7d05eb-a74d-8c33-0700-8caf469f2504 "ZIP - 1.8MB" %}}) (The ZIP file contains: 10 .sldprt files and 3 .sldasm files.)
 
-{{< resource eb11c5ad-318d-5675-d5d1-ff8274f8fc77 "Side view of table with measurements." >}}
+{{< resource "eb11c5ad-318d-5675-d5d1-ff8274f8fc77" >}}
 
 Side view of table with measurements.
 
@@ -90,7 +90,7 @@ Side view of table with measurements.
   
  
 
-{{< resource 1a3d837a-4924-53d0-2291-8a4b668079c0 "Top view of table with measurements." >}}
+{{< resource "1a3d837a-4924-53d0-2291-8a4b668079c0" >}}
 
 Top view of table with measurements.
 

@@ -16,7 +16,7 @@ video_metadata:
 
 All images courtesy of Alex Slocum.
 
-{{< resource d247d016-e67d-a9ab-3559-ccfee1bd181b "Tic tech toe." >}}
+{{< resource "d247d016-e67d-a9ab-3559-ccfee1bd181b" >}}
 
 Tic tech toe.
 
@@ -30,13 +30,13 @@ There are three major elements to the table:
 1.  The Starting Zones - Each robot must begin the competition within this 18 inch by 18 inch square. The starting zone extends to 26 inches above the table surface. Robots can be located anywhere within this volume. However, they still must fit into the sizing box when in the starting zone. The starting zone is demarcated by a one to two inch line around the starting zone.
 2.  Foam Blocks - Sixteen blocks will be placed on the table as shown in the solid model. Half of the blocks will be colored for each team and placed on the corresponding side of the table. Each block will have a single side which is marked. The blocks are made of lightweight foam and are approximately cubic with dimensions of 8"x8"x8".
 
-{{< resource bae5abcd-1536-176a-ccfc-498290e3712a "Foam blocks." >}}
+{{< resource "bae5abcd-1536-176a-ccfc-498290e3712a" >}}
 
 Foam blocks.
 
 1.  Simmons Hall - The hall structure is made up of horizontal and vertical bins stacked as shown in the figure. The bottom row of horizontal bins are open on the front and back sides. The top three rows of horizontal bins are open only in the front. The two long vertical bins on the sides of the structure are open only on the top. Each horizontal bin can hold only one block at a time, while the vertical bin can hold three blocks at a time. Detailed dimensions available in the drawings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 209801d8-8ca1-17d5-27af-69e6563e92ce "PDF" %}}).
 
-{{< resource 7a6c79b5-06b1-c42e-7294-d149845d7d0f "Simmons hall." >}}
+{{< resource "7a6c79b5-06b1-c42e-7294-d149845d7d0f" >}}
 
 Simmons hall.
 
@@ -119,7 +119,7 @@ To keep the contest going at a good clip, control boxes will be installed in the
 
 ### The Contest Day Layout
 
-{{< resource 57d4eb18-ce80-0e28-90bc-84de14dc8808 "Contest day layout." >}}
+{{< resource "57d4eb18-ce80-0e28-90bc-84de14dc8808" >}}
 
 Contest day layout.
 

@@ -31,7 +31,7 @@ All images courtesy of Alex Slocum.
 {{< anchor "How_to_Wire_Your_Machine" >}}{{< /anchor >}}How to Wire Your Machine
 --------------------------------------------------------------------------------
 
-{{< resource d408687b-f689-9e77-d7df-d0cf60cb218d "Motor plug." >}}
+{{< resource "d408687b-f689-9e77-d7df-d0cf60cb218d" >}}
 
 Motor plug.
 
@@ -39,7 +39,7 @@ Motor plug.
   
  
 
-{{< resource 65d17bf8-5264-6327-1506-1dc7fe6199e2 "Battery plug." >}}
+{{< resource "65d17bf8-5264-6327-1506-1dc7fe6199e2" >}}
 
 Battery plug.
 
@@ -54,7 +54,7 @@ Long motor and battery wires have the following two problems. Try to keep them s
 
 **Incorrectly wiring either plug will result in damage to your machine, batteries, and control box!**
 
-{{< resource 9c2f0749-26ac-2153-035f-58cf039ff458 "Proper pin direction." >}}
+{{< resource "9c2f0749-26ac-2153-035f-58cf039ff458" >}}
 
 Proper pin direction.
 
@@ -62,13 +62,13 @@ Proper pin direction.
   
  
 
-{{< resource 63bd36b4-2129-6236-695f-621abffb4e96 "AMP pin removal tool." >}}
+{{< resource "63bd36b4-2129-6236-695f-621abffb4e96" >}}
 
 AMP pin removal tool.
 
 When wiring the connectors, check to make sure that the pins are pointing in the proper direction, which is shown above. You can use the AMP pin removal tool to remove pins and insert them properly.
 
-{{< resource 82e2043e-e9d7-cc24-1b30-4a697f62ac5f "Carefully insulated wires." >}}
+{{< resource "82e2043e-e9d7-cc24-1b30-4a697f62ac5f" >}}
 
 Carefully insulated wires.
 
@@ -87,7 +87,7 @@ Machines that are barred from competition cannot compete in the contest, which m
 
 For the contest, you will be using the batteries supplied with your handheld drill. The drill you are receiving is a 14.4V cordless drill. The batteries are fairly hefty NiMH batteries. The nominal voltage of the battery is 14.4 Volts, although the battery can supply between 12 and 17 Volts, depending on the charge. Do not run your battery below 12V, as it will begin to damage the battery. The control box will signal when you have dropped below 12V and will shut off at 11V.
 
-{{< resource d9873e5d-a7b0-d0b1-6c45-759bd6f17f71 "Connecting battery to control box." >}}
+{{< resource "d9873e5d-a7b0-d0b1-6c45-759bd6f17f71" >}}
 
 Connecting battery to control box.
 
@@ -110,7 +110,7 @@ The batteries will slowly loose charge when they are not connected to the charge
 
 While we have striven to make all the physical boxes identical to each other and the solid model. Some variation is inevitable, however, and it is the student's responsibility to account for it. Approximate weight of the control box is 0.85 lbs. (0.39 kg.). Dimensions of the box can be obtained from the solid model.
 
-{{< resource bb188c4e-d0ba-0d19-49c7-7f1f03350116 "Box front." >}}
+{{< resource "bb188c4e-d0ba-0d19-49c7-7f1f03350116" >}}
 
 Box front.
 
@@ -123,7 +123,7 @@ Box front.
 *   **AMP 4-Pin Battery Connector** - Generously donated by Tyco Electronics, this is where your batteries are plugged into the control box. It must be easily accessible when the control box is mounted on your machine. The connector is the most vulnerable part of the control box. It must be protected against impact. See the wiring diagrams to correctly wire up your mating plug.
 *   **Steel Mounting Plates** - Mounted to the sides of the control box are thin strips of steel sheet metal. It is recommended that you use one or both of your magnets to mount the control box to your machine via these steel plates. You are responsible for designing the mounting mechanism to be robust enough to keep the control box attached to your machine throughout the contest. Magnets alone will not secure the control box in the presence of large inertial forces e.g. the impact forces associated with a fall.
 
-{{< resource cd710893-63d3-20b7-4707-141f7517a6e7 "Box back." >}}
+{{< resource "cd710893-63d3-20b7-4707-141f7517a6e7" >}}
 
 Box back.
 
@@ -131,7 +131,7 @@ Box back.
   
  
 
-{{< resource 095a5722-4889-62c8-673d-8ac8025e8a70 "Status indicator." >}}
+{{< resource "095a5722-4889-62c8-673d-8ac8025e8a70" >}}
 
 Status indicator.
 
@@ -139,7 +139,7 @@ Status indicator.
   
  
 
-{{< resource 266890fd-7941-7933-05d4-6d8f9b861e16 "Motor status indicators." >}}
+{{< resource "266890fd-7941-7933-05d4-6d8f9b861e16" >}}
 
 Motor status indicators.
 
@@ -174,7 +174,7 @@ If the lights are blinking in a pretty fashion, the control box is in Demo Mode.
 
 ### Suggested Mounting Hardware
 
-{{< resource ebeb4b5f-1bb5-2e2a-e2de-d56ae2902877 "Suggested mounting hardware." >}}
+{{< resource "ebeb4b5f-1bb5-2e2a-e2de-d56ae2902877" >}}
 
 Suggested mounting hardware.
 
@@ -182,7 +182,7 @@ Suggested mounting hardware.
   
  
 
-{{< resource 92a04617-0b19-8fc4-e0eb-1fe58b3f94ee "Suggested mounting hardware." >}}
+{{< resource "92a04617-0b19-8fc4-e0eb-1fe58b3f94ee" >}}
 
 Suggested mounting hardware.
 
@@ -205,14 +205,14 @@ Wires, rubber bands, and string are **not** sufficient mounting solutions for th
 {{< anchor "How_to_Run_the_Control_system" >}}{{< /anchor >}}How to Run the Control system
 ------------------------------------------------------------------------------------------
 
-{{< resource 5aff75f8-0ca6-0135-9cb7-c064ae8c3f4e "Blue podium." >}}
+{{< resource "5aff75f8-0ca6-0135-9cb7-c064ae8c3f4e" >}}
 
 Blue podium.
 
 1.  Get a control box. Match the color on the control box to the color on the front of the podium.
 2.  Connect power to the control box through the AMP 4-pin connecter, either using the power supply in the podium or your batteries. To connect to the podium power supply, simply connect the tether cable on the front of the podium to the box. Be sure to check that your machine runs with batteries too.
     
-    {{< resource afe1ad58-cab3-1099-86ac-589deb1ff729 "Connecting power." >}}
+    {{< resource "afe1ad58-cab3-1099-86ac-589deb1ff729" >}}
     
     Connecting power.
     
@@ -221,7 +221,7 @@ Blue podium.
 5.  Turn on the control box by pressing in the red button. Do not press the green button.
 6.  Check the status of the indicator LEDs to make sure your batteries is sufficiently charged and the system is calibrated.
     
-    {{< resource 36024f2e-8032-aefd-2f74-aa1e9a5974d3 "" >}}
+    {{< resource "36024f2e-8032-aefd-2f74-aa1e9a5974d3" >}}
     
     Drive your machine.
     

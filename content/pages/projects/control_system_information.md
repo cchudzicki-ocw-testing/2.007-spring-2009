@@ -31,7 +31,7 @@ System Overview
 
 The picture below is a schematic overview of the whole system. Two batteries supply power to the control box. The control box distributes that power to the four actuators based on commands it receives from the transmitter. The transmitter receives commands from joysticks/throttles via the microprocessor. For the details of each sub-system, please consult the appropriate sub-section of this page.
 
-{{< resource ec6b3c93-7b79-003d-2499-8087a55dfc3f "Control box system schematic." >}}
+{{< resource "ec6b3c93-7b79-003d-2499-8087a55dfc3f" >}}
 
 Control box system schematic.
 
@@ -42,7 +42,7 @@ The above figures indicate how to wire both the Amp 14 pin connector (to connect
 
 Incorrectly wiring either plug will result in damage to your machine, batteries, and control box!
 
-{{< resource 8dff17c4-36bf-8d28-cb32-16f630a49871 "Motor connection photo." >}}
+{{< resource "8dff17c4-36bf-8d28-cb32-16f630a49871" >}}
 
 Motor connection photo.
 
@@ -59,7 +59,7 @@ Contained within the zip file are two different versions of the solid model - on
 
 While we have striven to make all the boxes identical to each other and the solid model, some variation is inevitable, however, and it is the student's responsibility to account for it.
 
-{{< resource cf7ff3c1-cfb3-4802-890c-73b6a3911d73 "Control box graphic 1." >}}
+{{< resource "cf7ff3c1-cfb3-4802-890c-73b6a3911d73" >}}
 
 Control box image 1.
 
@@ -67,7 +67,7 @@ Control box image 1.
   
  
 
-{{< resource 995d7d6f-f531-f6c4-56c0-53ec995a707b "Control box image 2." >}}
+{{< resource "995d7d6f-f531-f6c4-56c0-53ec995a707b" >}}
 
 Control box image 2.
 
@@ -75,7 +75,7 @@ Control box image 2.
   
  
 
-{{< resource f2760278-9684-f71e-8e0b-e87e7956b774 "3 views on control box image." >}}
+{{< resource "f2760278-9684-f71e-8e0b-e87e7956b774" >}}
 
 3 views on control box image.
 
@@ -83,7 +83,7 @@ Control box image 2.
   
  
 
-{{< resource 48444c6d-a0f4-50d7-a01e-44678624fe56 "Control box 2-button image." >}}
+{{< resource "48444c6d-a0f4-50d7-a01e-44678624fe56" >}}
 
 Control box 2-button image.
 
@@ -117,7 +117,7 @@ Students will control their machines with four joysticks/throttles. The channel 
 
 Remember, driving 2.007 machines is difficult. Plenty of time should be allocated for practice.
 
-{{< resource 33f5e7a5-0a27-8653-fda3-03135dd5af7f "Control podium image." >}}
+{{< resource "33f5e7a5-0a27-8653-fda3-03135dd5af7f" >}}
 
 Control podium image.
 
@@ -125,7 +125,7 @@ Control podium image.
   
  
 
-{{< resource c3e1fbb0-210b-b99c-7748-9ed2603ab644 "Transmitter box diagram." >}}
+{{< resource "c3e1fbb0-210b-b99c-7748-9ed2603ab644" >}}
 
 Transmitter box diagram.
 

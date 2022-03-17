@@ -13,7 +13,7 @@ video_metadata:
 
 Your mission: Clean up planet earth and re-establish plant life.
 
-{{< resource 99799bfd-4d47-b79f-420e-aa9f69f1943a "A photo of the 2009 competition table, with a row of skyscrapers dividing it into an area for each robot containing cans and bales of trash to be crushed and stacked in the appropriate target area." >}}
+{{< resource "99799bfd-4d47-b79f-420e-aa9f69f1943a" >}}
 
 The challenge for this year's 2.007 robots is to clean up the environment. (Image by Dan Frey.)
 

@@ -17,7 +17,7 @@ video_metadata:
   
  
 
-{{< resource e90ad962-9c2f-829c-a0ee-95443e65535e "A CAD model of the competition table, showing the starting boxes, skyscrapers, tunnel between areas, and plant." >}}
+{{< resource "e90ad962-9c2f-829c-a0ee-95443e65535e" >}}
 
   
  
